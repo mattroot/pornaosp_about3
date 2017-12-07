@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="teamporn.pornaosp.about3" version="2.1.37" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>About PornAOSP</name>
+    <description>
+    	The official About PornAOSP app.
+    </description>
+    <author href="http://github.com/matikorzenio">
+        MattRoot @ #teamPorn
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
